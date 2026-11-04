@@ -3,7 +3,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> age = 20
 ...
 ... if age >= 18:
-...     print("You are an adult")
+...     print("You arffe an adult")
 ... else:
 ...     print("You are a fuccher")
 ...
